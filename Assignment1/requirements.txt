@@ -1,0 +1,10 @@
+ipykernel
+jupyterlab
+torch
+torchvision
+torchinfo
+scikit-learn
+matplotlib
+tensorboard
+pyarrow
+git+https://github.com/tonyscan6003/CE5021_helpers@ay2627

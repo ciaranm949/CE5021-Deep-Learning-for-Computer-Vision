@@ -1,0 +1,7 @@
+*
+!/.gitignore
+!/Assignment1/
+/Assignment1/*
+!/Assignment1/Assignment1.ipynb
+!/Assignment1/Experiment Log.md
+!/Assignment1/requirements.txt
